@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "0.0.2",
   "url": "https://github.com/Dogbonee/FeederAce_Firmware_Updates/releases/latest/download/firmware.bin",
-  "notes": "Initial firmware release"
+  "notes": "Add OTA support"
 }
