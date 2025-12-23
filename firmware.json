@@ -1,6 +1,7 @@
 {
-  "version": "0.0.3",
+  "version": "0.1.0",
   "url": "https://github.com/Dogbonee/FeederAce_Firmware_Updates/releases/latest/download/firmware.bin",
-  "notes": "Add OTA stability updates"
+  "notes": "Significant improvements to the OTA, rollback and BLE systems"
 }
+
 
